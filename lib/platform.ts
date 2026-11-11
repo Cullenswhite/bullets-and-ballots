@@ -82,7 +82,7 @@ export const planks: Plank[] = [
     id: "inflation",
     number: "04",
     title: "Inflation/ High Cost of Living",
-    author: "Cullen Whites",
+    author: "Cullen White",
     body: "Inflation and cost of living is at all-time highs in America causing many Americans to feel lost or stuck. Gas prices have continued to rise along with housing prices. Since the pandemic American families have had to spend hundreds more on food than they did during the pandemic. Rents and prices for a new home have not gone down, causing more of a poverty gap in America. Health insurance and childcare have also been severely affected. Corporate price gouging has created an unfair bias on certain markets, and local businesses are getting quietly swept under the rug. Along with that Corporations have such a large control of markets they can keep prices high just to make more profits. Governments should try and lower costs and fight back against corporations and give unions more rights as well.",
   },
   {
@@ -115,7 +115,7 @@ export const planks: Plank[] = [
 export const members = [
   { role: "Party Chairperson", name: "Cam Spellman" },
   { role: "Party Secretary", name: "Riley Edwards" },
-  { role: "Graphic Designer", name: "Cullen Whites" },
+  { role: "Graphic Designer", name: "Cullen White" },
   { role: "Party Treasurer", name: "Keaton Frei" },
   { role: "Communication Director", name: "Max Gropp" },
 ] as const;

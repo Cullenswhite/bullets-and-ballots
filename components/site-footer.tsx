@@ -10,7 +10,7 @@ export function SiteFooter() {
           <div>
             <p className="footer-name">{party.name}</p>
             <p className="footer-slogan">{party.slogan}</p>
-            <p className="footer-credit">Emblem by graphic designer Cullen Whites.</p>
+            <p className="footer-credit">Emblem by graphic designer Cullen White.</p>
           </div>
         </div>
         <nav className="footer-nav" aria-label="Footer">
